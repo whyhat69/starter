@@ -1,11 +1,11 @@
 <html>  
     <head>  
-        <title>Simple Web Page</title>  
+        <title>web page mcgee</title>  
     </head>  
     <body>  
         <center>  
             <h2 style="color: blue">  
-                <i>THIS IS MY FIRST WEB PAGE</i>  
+                <i>GRAPHIC DESIGN IS MY PASSION</i>  
             </h2>  
             <img src="nature.jpg"/>  
         </center>  
